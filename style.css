@@ -58,7 +58,6 @@
 }
 .banner-btn a:hover {
 	color:#000;
-	
 }
 #sidenav{
 	width:170px;
@@ -96,12 +95,12 @@ nav ul li a{
 }
 @media screen and(max-width:770px){
 	.banner-text h1{
-		font-size:44px;
+		font-size:34px;
 		
 	}
 	.banner-btn a {
 		display:block;
-		margin:20px auto;
+		margin:10px auto;
 	}
 }
 /*--feature--*/
