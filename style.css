@@ -21,7 +21,7 @@
 			 padding-top:180px;
 }
 .banner-text h1{
-	            font-size:54px;
+	            font-size:44px;
 }
 .banner-text p{
 	            font-size:20px;
@@ -64,7 +64,7 @@ nav ul li a{
 }
 @media screen and(max-width:768px){
 	.banner-text h1{
-		font-size:54px;
+		font-size:44px;
 		
 	}
 }
