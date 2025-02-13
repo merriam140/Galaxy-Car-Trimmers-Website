@@ -311,7 +311,7 @@ hr{
 	cursor:pointer;
 	transition:.5s;
 }
-.testimonial-col{
+.testimonial-col p{
 	font-size:14px;
 }
 .User{
